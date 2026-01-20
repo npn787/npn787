@@ -4,45 +4,45 @@ I’m a Computer Science graduate with a strong interest in data analysis, busin
 
 🧠 Skills
 
-SQL: SQLite, MySQL (academic projects)
+🔹SQL: SQLite, MySQL (academic projects)
 
-Python: Pandas, Matplotlib
+🔹Python: Pandas, Matplotlib
 
-Data Analysis: Exploratory Data Analysis (EDA), data cleaning, reporting
+🔹Data Analysis: Exploratory Data Analysis (EDA), data cleaning, reporting
 
-Tools: VS Code, GitHub
+🔹Tools: VS Code, GitHub
 
-Concepts: Relational databases, KPIs, data visualization
+🔹Concepts: Relational databases, KPIs, data visualization
 
 📊 Projects
 
-🔹 Retail Sales Analysis (SQL)
-Designed and queried a relational database for retail sales data
+ Retail Sales Analysis (SQL)
+🔹Designed and queried a relational database for retail sales data
 
-Analyzed revenue trends, top-selling products, and customer behavior
+🔹Analyzed revenue trends, top-selling products, and customer behavior
 
-Generated business KPIs such as total sales, average order value, and regional performance
+🔹Generated business KPIs such as total sales, average order value, and regional performance
 
-Used SQL joins, aggregations, and filtering for insights
+🔹Used SQL joins, aggregations, and filtering for insights
 
 🌱 Currently Learning
 
-Advanced SQL queries
+🔹Advanced SQL queries
 
-Data visualization techniques
+🔹Data visualization techniques
 
-Excel for business and analytics
+🔹Excel for business and analytics
 
-Python-based data analysis workflows
+🔹Python-based data analysis workflows
 
 🤝 Open to Collaboration
 
-Data analysis projects
+🔹Data analysis projects
 
-Beginner-friendly analytics work
+🔹Beginner-friendly analytics work
 
-SQL and Python practice projects
+🔹SQL and Python practice projects
 
 ⚡ Fun Fact
 
-I enjoy turning raw data into meaningful insights and improving efficiency through smart analysis.
+🔹I enjoy turning raw data into meaningful insights and improving efficiency through smart analysis.

@@ -3,6 +3,7 @@
 I’m a Computer Science graduate with a strong interest in data analysis, business insights, and process improvement. I enjoy working with data to uncover trends, improve decision-making, and build efficient, well-structured solutions using SQL and Python.
 
 🧠 Skills
+
 SQL: SQLite, MySQL (academic projects)
 Python: Pandas, Matplotlib
 Data Analysis: Exploratory Data Analysis (EDA), data cleaning, reporting

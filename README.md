@@ -15,6 +15,7 @@ Tools: VS Code, GitHub
 Concepts: Relational databases, KPIs, data visualization
 
 📊 Projects
+
 🔹 Retail Sales Analysis (SQL)
 Designed and queried a relational database for retail sales data
 
@@ -25,6 +26,7 @@ Generated business KPIs such as total sales, average order value, and regional p
 Used SQL joins, aggregations, and filtering for insights
 
 🌱 Currently Learning
+
 Advanced SQL queries
 
 Data visualization techniques
@@ -34,6 +36,7 @@ Excel for business and analytics
 Python-based data analysis workflows
 
 🤝 Open to Collaboration
+
 Data analysis projects
 
 Beginner-friendly analytics work

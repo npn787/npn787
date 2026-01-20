@@ -17,6 +17,7 @@ I’m a Computer Science graduate with a strong interest in data analysis, busin
 📊 Projects
 
  Retail Sales Analysis (SQL)
+
 🔹Designed and queried a relational database for retail sales data
 
 🔹Analyzed revenue trends, top-selling products, and customer behavior

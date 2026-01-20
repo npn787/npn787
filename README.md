@@ -5,9 +5,13 @@ I’m a Computer Science graduate with a strong interest in data analysis, busin
 🧠 Skills
 
 SQL: SQLite, MySQL (academic projects)
+
 Python: Pandas, Matplotlib
+
 Data Analysis: Exploratory Data Analysis (EDA), data cleaning, reporting
+
 Tools: VS Code, GitHub
+
 Concepts: Relational databases, KPIs, data visualization
 
 📊 Projects
